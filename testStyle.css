@@ -1,0 +1,97 @@
+h1{
+    color: black;
+    font-style: normal;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}   
+h4{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h5{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h6{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h7{
+    color: black;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+p1{
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+p2{
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img.myImage{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+table tr:nth-child(odd){
+    background-color: rgb(231, 228, 228);
+}
+table{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: light-grey;
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 25%;
+}
+table td, table th {
+    border: 1px solid black;
+    padding: 8px;
+
+}
